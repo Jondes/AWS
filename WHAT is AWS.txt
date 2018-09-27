@@ -1,0 +1,41 @@
+AWS is a global cloud platform which allows you to host and manage you services on the internet.
+Used by almost 80% of Fortune 500 companies to host their infrastructure and it has
+They provide you with the Infrastrucure as a service . You don't need the Servers and power supply.
+They supply you with platform as a service, like Java,Python,php
+Software as a service.
+Cloud storage platform.
+All in all its a hosting provider which gives you a lot of services, getting your applications on the Cloud.
+
+How it functions:
+* Per hour billing.
+* Easy sign up process. email address and credit card.
+* You can go 0 to 100 in two minutes.
+* You can launch your servers without buying hardware.
+* Simple billing.
+* Stability
+* Trusted vendor
+
+Commonly used services
+
+* EC2  (Elastic compute cloud)    Bare Servers
+* VPC (Virtual Private Cloud) lets you create netwroks in the cloud and then run your Servers in those netwroks.
+* S3 (Simple storage service)to upload and share files
+* RDS (relational database service)run and manage databses on the cloud.from SQL Server to Oracle and MySQL PostgreSQL
+* Route53 managed DNS service 
+* ELB (Elastic Load balacing)allows to load balance multiple traffic to multiple machines.You can scale up your load with any number of users.
+* Autoscaling which adds capacity on-the-fly to elastic  load balancers, so application never down due to load.
+* Per hour billing for almost everything
+* Region specific pricing
+* Term specific pricing
+* 15 Regions over major countries of the world. 
+* Massive data centres. 300,000 to 500,000 servers.
+* Focussing on machine learning.
+* Focus on SaaS products
+* Reduction in costs
+* 
+         AWS Services
+* Amazon S3 - An Object storage that can store and retrieve data from anywhere.
+* AWS Data Transfer - has a number of Data transfer services. monitor the data  and analyse the data. 
+* Amazon EC2 elastic compute Resizable compute capacity.
+
+

@@ -1,0 +1,8 @@
+Six advantages of Cloud Computing
+1. Trade Capital expenses for Variable expense
+* Traditional Datacentres require heavy upfront capital investment.
+* With Cloud you pay only when you consume resourses and how much you consume.
+2. Benefits from massive economies  
+* Shared Infrastructure used by multiple customers.
+* Lower pay as you go prices
+* Lower variable cost with cloud computing than traditional on-premise data centers.

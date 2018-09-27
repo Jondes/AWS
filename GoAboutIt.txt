@@ -1,0 +1,34 @@
+go to awe.amazon.com 
+Open an account 
+
+Wordpress/AWS
+AWS Services >
+> Compute>EC2 > 
+> Launch Instance
+> AWS Marketplace 
+Search for Wordpress
+Select Worpress Certified by Bitnami
+click continue > General purpose Free
+> Configure instance details
+> Auto-assign Public IP>Enable>Review and Launch
+> Launch
+Create a new SSH key pair
+> Dowload Key Pair
+Now we need to obtain wordpress credentials to login
+> Services> EC2>
+> from sidebar column choose- Instances
+> RightClick >InstanceSetting>System log
+> go to bottom of system log > copy- Setting password
+> paste in a safe place  XkbJTkKaBc2 (fictitiuos)
+> Copy IPv4 Public IP address(number)
+> open new Cognito window
+> paste that IP address
+> and your Wordpress site is  Open
+> next to IP address 18.216.154..102/wp-admin
+> Login window will open
+> Username is going to be - USER
+> Paste the password from  System log
+>and the Wordpress Dashboard appears
+
+
+

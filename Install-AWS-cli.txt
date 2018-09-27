@@ -1,0 +1,9 @@
+> npm install -g serverless
+> serverless config credentials --provider aws --key (paste key AKIAIHEDHG5TY77GMEWA) --secret (paste secret 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)
+> ng new myawesomeapp
+> cd myawesomeapp
+> ng add @ng-toolkit/serverless --provider aws
+> npm run build:serverless:deploy
+      THATS IT ! You are done
+
+croppola.com to crop images

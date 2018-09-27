@@ -1,0 +1,5 @@
+* AWS In 10 Minutes | AWS Tutorial For Beginners | Simplilearn
+https://www.youtube.com/watch?v=r4YIdn2eTm4
+* Technical Introduction to Amazon Aurora - MySQL Compatible Relational Database on AWS
+
+* Cloud Computing: What is Cloud Computing?

@@ -1,0 +1,37 @@
+What is AWS?
+* IaaS infrastructure as a Service
+ * Compute
+ * Storage
+ * Networking
+ * Database
+ * DNS
+
+The Partner Program
+* Technologu Partner
+ * Alert Logic
+ * CloudBerry Lab
+ * Sumo Logic
+ * Datado
+ * New Relic etc
+*Consulting Partner
+ * Logicworks
+ * Rackspace * Accenture
+ * Datapipe
+
+AWS Partner Program
+Partner     Associate Certs     Professional Cert
+Standard          2  staff                    0 staff
+Advanced         4  staff                    2 staff
+Premier           20 staff                    8 staff
+
+Associate Tier                                              Professionals Tier
+1. Certified solutions architect Associate______Certified Solutions Architect Professional
+2. Certified Developer Associate________________
+3. Certified Sysops Administrator Associate_______Devops Professional
+
+Speciality
+*Security 
+*Advanced Networking
+*Big Data
+
+
